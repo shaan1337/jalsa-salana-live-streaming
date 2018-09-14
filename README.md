@@ -1,0 +1,1 @@
+This is the frontend for Jalsa Salana Mauritius live streaming hosted at http://ahmadiyya.mu/live

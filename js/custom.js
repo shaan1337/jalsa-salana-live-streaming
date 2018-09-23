@@ -58,7 +58,7 @@ var scrollToLiveStream = function(){
 
 var refreshTwitterFeed = function(){
 	setInterval(function(){
-	$('#twitter-feed-content').html('<a class="twitter-grid" data-limit="10" data-partner="tweetdeck" href="https://twitter.com/AhmadiyyaMu/timelines/901712083208699906">Jalsa Salana 2017</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>');
+	$('#twitter-feed-content').html('<a class="twitter-grid" data-limit="10" data-partner="tweetdeck" href="https://twitter.com/AhmadiyyaMu/timelines/1043565216976461824">Jalsa Salana 2018</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>');
 },120000);
 
 }
